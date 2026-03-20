@@ -1,2 +1,9 @@
 # Defensive_NFLDraft
 I will be using the statistics of individual SEC defensive players to predict the likelihood of them being drafted into the NFL.
+
+##This purpose of this model is intended to help me understand machine learning principles without using ML libraries.**
+**These models are rudimentary decision tree and neural network models that will NOT take into account the complexities of drafting such as positional needs of individual teams.**
+**For this model, I will only be using the statistics of individual players to predict the likelihood of them being drafted.**
+**Since roughly 25% of the NFL roster is made up of SEC players, this model will be built to predict only the likelihood of SEC defensive players being drafted**
+**This model will only include data from the last ten years: 2015-2025.**
+**Only the top 200 ranked defensive players in the SEC will be included in the training dataset.**
